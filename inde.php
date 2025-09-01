@@ -6,6 +6,6 @@
     <title>hola mundo</title>
 </head>
 <body>
-    
+    <input type="button" value="hola mundo" id="btn_holamundi">
 </body>
 </html>
